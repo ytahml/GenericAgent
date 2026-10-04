@@ -1,6 +1,7 @@
 pytest
 aiohttp>=3.9
 requests>=2.28
+lark-oapi
 psutil
 fastapi
 uvicorn
